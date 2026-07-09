@@ -1,6 +1,6 @@
-# 🏋️ FitProtein AI - Smart Protein Requirement Predictor
+#  FitProtein AI - Smart Protein Requirement Predictor
 
-## 📌 Project Overview
+##  Project Overview
 
 FitProtein AI is an Artificial Intelligence and Machine Learning-based fitness application designed to predict personalized protein requirements based on individual health details, workout patterns, and fitness goals.
 
@@ -10,7 +10,7 @@ The application provides an interactive and user-friendly interface built with S
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Maintaining proper nutrition is essential for achieving fitness goals, but many people struggle to determine the right amount of protein intake based on their body composition and activity level.
 
@@ -20,7 +20,7 @@ FitProtein AI solves this problem by using Machine Learning to provide personali
 
 ---
 
-## 🚀 Features
+##  Features
 
 * ✅ AI-based protein requirement prediction
 * ✅ Personalized fitness recommendations
@@ -32,7 +32,7 @@ FitProtein AI solves this problem by using Machine Learning to provide personali
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language
 
@@ -59,7 +59,7 @@ FitProtein AI solves this problem by using Machine Learning to provide personali
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 The system follows these steps:
 
@@ -106,7 +106,7 @@ After processing the input, the trained AI model predicts the recommended protei
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 FitProtein-AI
@@ -124,7 +124,7 @@ FitProtein-AI
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Clone Repository
 
@@ -154,7 +154,7 @@ The application will open in your browser.
 
 ---
 
-## 📊 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ```text
 User Fitness Data
@@ -177,7 +177,7 @@ Personalized Recommendation
 
 ---
 
-## 🌍 Applications
+##  Applications
 
 This project can be useful for:
 
@@ -189,7 +189,7 @@ This project can be useful for:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Future enhancements:
 
@@ -202,7 +202,7 @@ Future enhancements:
 
 ---
 
-## 🤖 Machine Learning Concepts Used
+##  Machine Learning Concepts Used
 
 * Supervised Learning
 * Regression Models
@@ -212,7 +212,7 @@ Future enhancements:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as an AI and Machine Learning project focused on personalized fitness and nutrition recommendations.
 
